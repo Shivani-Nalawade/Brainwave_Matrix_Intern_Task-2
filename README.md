@@ -6,10 +6,15 @@ The goal is to perform Sentiment Analysis on Twitter data to classify tweets as 
 
 ## 🚀 Tools and Libraries Used
 Python 🐍
+
 Pandas
+
 NumPy
+
 Matplotlib & Seaborn
+
 Scikit-learn
+
 NLTK (Natural Language Toolkit)
 
 ## 🛠️ Project Workflow
